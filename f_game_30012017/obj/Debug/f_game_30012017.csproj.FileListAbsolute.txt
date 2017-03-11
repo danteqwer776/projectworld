@@ -1,0 +1,9 @@
+c:\users\arthas\documents\visual studio 2015\Projects\f_game_30012017\f_game_30012017\bin\Debug\f_game_30012017.exe.config
+C:\Users\Arthas\Documents\Visual Studio 2015\Projects\f_game_30012017\f_game_30012017\bin\Debug\f_game_30012017.exe
+C:\Users\Arthas\Documents\Visual Studio 2015\Projects\f_game_30012017\f_game_30012017\bin\Debug\f_game_30012017.pdb
+C:\Users\Arthas\Documents\Visual Studio 2015\Projects\f_game_30012017\f_game_30012017\obj\Debug\f_game_30012017.csprojResolveAssemblyReference.cache
+C:\Users\Arthas\Documents\Visual Studio 2015\Projects\f_game_30012017\f_game_30012017\obj\Debug\f_game_30012017.Form1.resources
+C:\Users\Arthas\Documents\Visual Studio 2015\Projects\f_game_30012017\f_game_30012017\obj\Debug\f_game_30012017.Properties.Resources.resources
+C:\Users\Arthas\Documents\Visual Studio 2015\Projects\f_game_30012017\f_game_30012017\obj\Debug\f_game_30012017.csproj.GenerateResource.Cache
+C:\Users\Arthas\Documents\Visual Studio 2015\Projects\f_game_30012017\f_game_30012017\obj\Debug\f_game_30012017.exe
+C:\Users\Arthas\Documents\Visual Studio 2015\Projects\f_game_30012017\f_game_30012017\obj\Debug\f_game_30012017.pdb
